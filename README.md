@@ -53,6 +53,15 @@ Following are the ways to earn cool Developer Swag:
 <b>Link:</b> [Here](https://codeship.com/swag)
 
 
+## 6. Microsoft + Open Source
+<b>Timeline:</b> October
+
+<b>Swag:</b> T-shirt
+
+<b>Skills required:</b> ```all levels of coding```
+
+<b>Link:</b> [Here](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/)
+
 
 
 ### Enjoy your swag!
