@@ -63,5 +63,14 @@ Following are the ways to earn cool Developer Swag:
 <b>Link:</b> [Here](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/)
 
 
+## 7. MLH Local Hack Day
+<b>Timeline:</b> December
+
+<b>Swags:</b> T-Shirt, stickers
+
+<b>Skills required:</b> ```all levels of coding```
+
+<b>Link:</b> [Here](https://localhackday.mlh.io/)
+
 
 ### Enjoy your swag!
