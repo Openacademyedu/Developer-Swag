@@ -1,6 +1,8 @@
 # Developer Swag
 Win cool developer swag consisting of t-shirts, stickers, balls, platform credit or a pair of socks from cool companies like <b>Google, Amazon, DigitalOcean, DevRant, Codeship, NPM</b> and many more.
 
+<b> Register for monthly newsletter: </b> [Register Now](https://docs.google.com/forms/d/e/1FAIpQLScPnu2BcgOsOKl1D7LdYlCIaRJHXdwwKVgDwyHIxQ5fiSkH4Q/viewform)
+
 Following are the ways to earn cool Developer Swag:
 
 ## 1. Alexa
